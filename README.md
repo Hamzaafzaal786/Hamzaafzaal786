@@ -43,16 +43,18 @@
 
 <br>
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-| Project | Tech Stack | Status |
-|---------|------------|--------|
-| 🌤️ Weather App | Flutter, Firebase, OpenWeather API | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](YOUR_REPO_LINK) |
-| 💊 Pharmacy Management | C#, 3-Tier, SQL Server | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](YOUR_REPO_LINK) |
-| 🐄 Smart Dairy Farm | Java, SQL Server, ODBC | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](YOUR_REPO_LINK) |
-| ✈️ Airline Shortest Path | C#, Dijkstra's Algorithm | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](YOUR_REPO_LINK) |
-| 🍽️ Restaurant Website | HTML, CSS, JavaScript | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](YOUR_REPO_LINK) |
-| 🏗️ Restaurant Desktop | C#, Visual Studio, File Handling | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](YOUR_REPO_LINK) |
+| Project | Tech Stack |
+|---------|------------|
+| 🌤️ Weather App | Flutter, Firebase, OpenWeather API |
+| 💊 Pharmacy Management | C#, 3-Tier Architecture, SQL Server |
+| 🐄 Smart Dairy Farm | Java, SQL Server, ODBC |
+| ✈️ Airline Shortest Path | C#, Dijkstra's Algorithm |
+| 🍽️ Restaurant Website | HTML, CSS, JavaScript |
+| 🏗️ Restaurant Desktop | C#, Visual Studio, File Handling |
+
+<br>
 
 ## 🎓 Education
 
