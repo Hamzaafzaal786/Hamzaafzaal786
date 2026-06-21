@@ -86,7 +86,7 @@
 
 <!-- Visitor Counter -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Hamzaafzaal786/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Hamzaafzaal786&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
   <br>
   <p><i>🌟 Thanks for visiting my profile! Let's build something amazing together! 🚀</i></p>
 </div>
