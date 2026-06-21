@@ -24,7 +24,8 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzaafzaal786&theme=radical&hide_border=true" />
 </div>
-## 🚀 Projects
+<br>
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
