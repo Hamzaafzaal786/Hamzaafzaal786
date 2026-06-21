@@ -12,7 +12,7 @@
 />
 
 <br>
-## 📊 GitHub Stats
+## 📊 GitHubStats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamzaafzaal786&show_icons=true&theme=radical&hide_border=true" />
@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzaafzaal786&theme=radical&hide_border=true" />
 </div>
-## 🛠️ Tech Stack
+## 🛠️ TechStack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
