@@ -42,7 +42,11 @@
 </div>
 
 <br>
+## 🐍 Snake Eating My Contributions
 
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="Snake Animation" />
+</div>
 ## 🚀 Projects
 
 | Project | Tech Stack |
