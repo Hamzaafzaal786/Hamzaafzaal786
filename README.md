@@ -12,7 +12,7 @@
 />
 
 <br>
-## 📊 GitHubStats
+## 🛠️ TechStack
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamzaafzaal786&show_icons=true&theme=radical&hide_border=true" />
