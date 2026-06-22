@@ -82,13 +82,13 @@
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/syedhamzaafzaal" target="_blank">
+  <a href="https://linkedin.com/in/syed-hamza-afzaal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Hamzaafzaal786" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:syedhamzaafzaal@gmail.com" target="_blank">
+  <a href="mailto:hamzaafzaal669@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/syedhamzaafzaal" target="_blank">
