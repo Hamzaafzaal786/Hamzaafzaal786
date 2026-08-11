@@ -1,6 +1,6 @@
 # Hi there, I'm Syed Hamza Afzaal 👋
 
-## 🎓 Software Engineering Student | CGPA: 3.76
+## 🎓 Software Engineering Student | CGPA: 3.77
 
 <br>
 
