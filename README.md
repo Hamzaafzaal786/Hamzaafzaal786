@@ -1,6 +1,6 @@
 # Hi there, I'm Syed Hamza Afzaal 👋
 
-## 🎓 Software Engineering Student | CGPA: 3.77
+## 🎓 Software Engineering Student | CGPA: 3.76
 
 <br>
 
@@ -16,16 +16,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamzaafzaal786&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaafzaal786&layout=compact&theme=radical&hide_border=true" />
-</div>
 
-<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hamzaafzaal786&show_icons=true&theme=radical&hide_border=true" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzaafzaal786&theme=radical&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaafzaal786&layout=compact&theme=radical&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Hamzaafzaal786&theme=radical&hide_border=true" />
+
 </div>
-<br>
 
 ## 🛠️ Tech Stack
 
