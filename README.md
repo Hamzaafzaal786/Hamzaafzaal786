@@ -6,7 +6,7 @@
 
 <!-- TERMINAL STYLE CARD - ONE LINE, WORKS INSTANTLY -->
 <img
-  src="https://terminal-identity-opal.vercel.app/api?name=Syed%20Hamza%20Afzaal&username=Hamzaafzaal786&theme=solar&bg=grid&bio=Full%20Stack%20Engineer%20%7C%20MERN%20%26%20Django%20%26%20Flutter%20Developer%20%7C%20CGPA%3A%203.77"
+  src="https://terminal-identity-opal.vercel.app/api?name=Syed%20Hamza%20Afzaal&username=Hamzaafzaal786&theme=solar&bg=grid&role=Full%20Stack%20Engineer&bio=Full%20Stack%20Engineer%20%7C%20MERN%20%26%20Django%20%26%20Flutter%20Developer%20%7C%20CGPA%3A%203.77"
   width="100%"
   alt="My Terminal Card"
 />
